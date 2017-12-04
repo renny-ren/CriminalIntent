@@ -14,6 +14,5 @@
 /app/gradlew.bat
 /app/local.properties
 /.idea/modules.xml
-gradle/
 build.gradle
 .idea/
